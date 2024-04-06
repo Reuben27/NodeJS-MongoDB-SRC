@@ -11,3 +11,4 @@ The following are a few resources that we referred to while preparing for the SR
 - [MongoDB RoadMap](https://roadmap.sh/mongodb)
 - [Node NPM Installation](https://www.taniarascia.com/how-to-install-and-use-node-js-and-npm-mac-and-windows/)
 - [JavaScript Overview](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_overview)
+- [30 Days of Postman](https://www.postman.com/postman/workspace/30-days-of-postman-for-developers/overview)
