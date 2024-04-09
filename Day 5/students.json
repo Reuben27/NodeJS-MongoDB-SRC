@@ -1,0 +1,50 @@
+[
+	{
+		"name": "Kanishk",
+		"age": 21,
+		"cpi": 10.0,
+		"gender": "male",
+		"courses": ["DSA", "DBMS", "OS"],
+		"enrollmentDate": {"$date": "2020-08-01"}
+	},
+	{
+		"name": "Reuben",
+		"age": 22,
+		"cpi": 9.5,
+		"gender": "male",
+		"courses": ["DSA", "DBMS", "OS"],
+		"enrollmentDate": {"$date": "2019-08-01"}
+	},
+	{
+		"name": "Ashwani",
+		"age": 23,
+		"cpi": 9.3,
+		"gender": "male",
+		"courses": ["GC", "DCA", "MS"],
+		"enrollmentDate": {"$date": "2019-08-01"}
+	},
+	{
+		"name": "Dhruv",
+		"age": 21,
+		"cpi": 9.8,
+		"gender": "male",
+		"courses": ["DD", "DCA", "BS"],
+		"enrollmentDate": {"$date": "2020-08-01"}
+	},
+	{
+		"name": "Shreya",
+		"age": 20,
+		"cpi": 8.6,
+		"gender": "female",
+		"courses": ["GC", "DCA", "OS"],
+		"enrollmentDate": {"$date": "2020-08-01"}
+	},
+	{
+		"name": "Shivani",
+		"age": 19,
+		"cpi": 9.3,
+		"gender": "female",
+		"courses": ["GC", "DBMS", "MS"],
+		"enrollmentDate": {"$date": "2021-08-01"}
+	}
+]
