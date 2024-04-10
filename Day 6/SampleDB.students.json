@@ -1,0 +1,136 @@
+[{
+  "_id": {
+    "$oid": "6616ae8c9b1f07ef5200924c"
+  },
+  "name": "John Doe",
+  "age": 20,
+  "grade": "A",
+  "email": "john.doe@gmail.com",
+  "batch": 2020,
+  "address": {
+    "street": "123 Main St",
+    "city": "New York",
+    "state": "NY",
+    "zip": 10001,
+    "_id": {
+      "$oid": "6616ae8c9b1f07ef5200924d"
+    }
+  },
+  "createDate": {
+    "$date": "2024-04-10T15:21:48.448Z"
+  },
+  "updateDate": {
+    "$date": "2024-04-10T15:21:48.490Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6616ae9c057dc4d4133a6bb9"
+  },
+  "name": "Jane Doe",
+  "age": 21,
+  "grade": "B",
+  "email": "jane.doe@test.org",
+  "batch": 2021,
+  "address": {
+    "street": "456 Main St",
+    "city": "New York",
+    "state": "NY",
+    "zip": 10001,
+    "_id": {
+      "$oid": "6616ae9c057dc4d4133a6bba"
+    }
+  },
+  "createDate": {
+    "$date": "2024-04-10T15:22:04.802Z"
+  },
+  "updateDate": {
+    "$date": "2024-04-10T15:22:04.852Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6616aec5462adc0d60118879"
+  },
+  "name": "Kanishk",
+  "age": 22,
+  "grade": "B",
+  "email": "jane.doe@test.org",
+  "batch": 2020,
+  "address": {
+    "street": "789 Main St",
+    "city": "New York",
+    "state": "NY",
+    "zip": 10001,
+    "_id": {
+      "$oid": "6616aec5462adc0d6011887a"
+    }
+  },
+  "createDate": {
+    "$date": "2024-04-10T15:22:45.102Z"
+  },
+  "updateDate": {
+    "$date": "2024-04-10T15:29:21.816Z"
+  },
+  "__v": 0,
+  "buddy": {
+    "$oid": "6616aee69a85cf601d01a7b8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6616aee69a85cf601d01a7b8"
+  },
+  "name": "Reuben",
+  "age": 23,
+  "grade": "A",
+  "email": "rd@test.org",
+  "batch": 2019,
+  "address": {
+    "street": "69 St",
+    "city": "New York",
+    "state": "NY",
+    "zip": 10001,
+    "_id": {
+      "$oid": "6616aee69a85cf601d01a7b9"
+    }
+  },
+  "createDate": {
+    "$date": "2024-04-10T15:23:18.364Z"
+  },
+  "updateDate": {
+    "$date": "2024-04-10T15:23:18.452Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6616af27274b346b2ed43cf2"
+  },
+  "name": "Anant",
+  "age": 23,
+  "grade": "A",
+  "email": "aa@test.org",
+  "batch": 2019,
+  "address": {
+    "street": "169 St",
+    "city": "New York",
+    "state": "NY",
+    "zip": 10001,
+    "_id": {
+      "$oid": "6616af27274b346b2ed43cf3"
+    }
+  },
+  "buddy": {
+    "$oid": "6616ae8c9b1f07ef5200924c"
+  },
+  "createDate": {
+    "$date": "2024-04-10T15:24:23.566Z"
+  },
+  "updateDate": {
+    "$date": "2024-04-10T15:24:23.646Z"
+  },
+  "__v": 0
+}]
