@@ -28,4 +28,6 @@ button.addEventListener('click', function(event) {
   } catch(err) {
     console.error(`Error: ${err}`);
   }
+
+  location.reload();
 });
